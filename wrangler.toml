@@ -1,0 +1,5 @@
+name= "profanity-api"
+compatibility_date = "2024-07-03"
+[vars]
+VECTOR_URL ="https://subtle-bream-20994-eu1-vector.upstash.io"
+VECTOR_TOKEN ="ABYFMHN1YnRsZS1icmVhbS0yMDk5NC1ldTFhZG1pbllUZzJZakE0WWpndE1qSTNPUzAwTURRMUxXSTJPRE10TldVMFlqY3dZemhqTURBMA=="
